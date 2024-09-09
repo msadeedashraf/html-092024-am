@@ -1,5 +1,11 @@
 # html-092024-am
 
+### Setup Instructions
+[Installing VS Code](https://code.visualstudio.com/download)
+
+
+
+
 ### learning HTML
 [W3School HTML](https://www.w3schools.com/html/)
 
