@@ -8,7 +8,7 @@
 open the notepad 
 
 and type the following code in it 
-
+/*
 <html>
 
 <body>
@@ -16,10 +16,10 @@ and type the following code in it
 </body>
 
 </html>
-
+*/
 save the file with "firstpage.html" 
 
-![html page using notepad](/assets/firstpage_using_notepad.png)
+![html page using notepad](assets/firstpage_using_notepad.png)
 
 
 
