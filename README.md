@@ -30,5 +30,8 @@ save the file with "firstpage.html"
 [link](https://www.w3schools.com/html/html_editors.asp)
 
 
+### Usefull Resources
+
+[Lorem](https://www.lipsum.com/)
 
 
