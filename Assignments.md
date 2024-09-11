@@ -10,6 +10,9 @@ Find out the top 10 extension every developer should use.
 
 Create a webpage using title, h1 and p tags.
 
+### Assignment 4
+
+Create a webpage and try playing with the text using all the tag we did in chapter 2.
 
 
 
