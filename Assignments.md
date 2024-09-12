@@ -14,5 +14,8 @@ Create a webpage using title, h1 and p tags.
 
 Create a webpage and try playing with the text using all the tag we did in chapter 2.
 
+### Assignment 5
 
+1. Create a page using list (ul , ol, dl) [list](https://www.w3schools.com/html/html_lists.asp)
+2. Create a page with anchor tag. [link](https://www.w3schools.com/html/html_links.asp)
 
