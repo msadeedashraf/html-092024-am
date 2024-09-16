@@ -1,3 +1,11 @@
+### Reading Assignments
+
+1. Find out the free resources every html/css developer should have.
+2. 
+
+
+
+
 ### Assignment 1
 
 Find out 30 shortcuts for productivity using VS Code

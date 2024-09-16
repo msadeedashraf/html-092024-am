@@ -35,3 +35,7 @@ save the file with "firstpage.html"
 [Lorem](https://www.lipsum.com/)
 
 
+### For images
+[Getty Images](https://www.gettyimages.ca/)
+[Unsplash](https://unsplash.com/)
+[Pexels](https://www.pexels.com/)
