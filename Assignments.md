@@ -30,9 +30,12 @@ Create a webpage and try playing with the text using all the tag we did in chapt
 
 ### Assignment 6
 
-Create a page with images from local and url sources. Apply width and height to control the layout of the page/image.
+1. Create a page with images from local and url sources. Apply width and height to control the layout of the page/image.
+2. Create a link over an image.
 
 ### Assignemt 7
 Create the following Table Layouts
+
+1.  Layout 1
 ![Table Layout1](/assets/tables_layout/Layout_1.png)
 
