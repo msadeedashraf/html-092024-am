@@ -27,3 +27,12 @@ Create a webpage and try playing with the text using all the tag we did in chapt
 1. Create a page using list (ul , ol, dl) [list](https://www.w3schools.com/html/html_lists.asp)
 2. Create a page with anchor tag. [link](https://www.w3schools.com/html/html_links.asp)
 
+
+### Assignment 6
+
+Create a page with images from local and url sources. Apply width and height to control the layout of the page/image.
+
+### Assignemt 7
+Create the following Table Layouts
+![Table Layout1](/assets/tables_layout/Layout_1.png)
+
