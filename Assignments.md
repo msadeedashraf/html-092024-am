@@ -39,3 +39,8 @@ Create the following Table Layouts
 1.  Layout 1
 ![Table Layout1](/assets/tables_layout/Layout_1.png)
 
+2.  Layout 2
+![Table Layout1](/assets/tables_layout/Layout_3.png)
+
+3.  Layout 3
+![Table Layout1](/assets/tables_layout/Layout_1.png)
