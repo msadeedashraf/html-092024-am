@@ -36,6 +36,11 @@ save the file with "firstpage.html"
 
 
 ### For images
+
 [Getty Images](https://www.gettyimages.ca/)
 [Unsplash](https://unsplash.com/)
 [Pexels](https://www.pexels.com/)
+
+### Colors
+
+[colors](https://coolors.co/)
