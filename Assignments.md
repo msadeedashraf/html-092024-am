@@ -45,11 +45,12 @@ Create the following Table Layouts
 3.  Layout 3
 ![Table Layout1](/assets/tables_layout/Layout_3.png)
 
-### Assignemt 7
+### Assignment 7
 
 Create a simple contact us/survey form with all the form tags we did in the class.
 
 ### Assignment 8
 
 Create a html page with youtube playlist.
+
 
