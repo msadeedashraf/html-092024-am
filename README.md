@@ -46,3 +46,7 @@ save the file with "firstpage.html"
 ### Colors
 
 [colors](https://coolors.co/)
+
+### Escape Characters Reference
+
+[Escape Characters Reference](https://developer.mozilla.org/en-US/docs/Glossary/Character_reference)

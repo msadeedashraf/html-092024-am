@@ -48,3 +48,8 @@ Create the following Table Layouts
 ### Assignemt 7
 
 Create a simple contact us/survey form with all the form tags we did in the class.
+
+### Assignment 8
+
+Create a html page with youtube playlist.
+
