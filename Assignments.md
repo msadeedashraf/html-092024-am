@@ -53,4 +53,17 @@ Create a simple contact us/survey form with all the form tags we did in the clas
 
 Create a html page with youtube playlist.
 
+### Assignment 9
+
+Create an HTML page that plays audio or music in the background when the page loads?
+
+
+### Assignment 10
+
+Create an HTML page using internal CSS;
+![Layout]()
+
+Create the same page using an external style sheet you may also use any layout you like.
+
+
 
