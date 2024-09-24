@@ -61,7 +61,7 @@ Create an HTML page that plays audio or music in the background when the page lo
 ### Assignment 10
 
 Create an HTML page using internal CSS;
-![Layout]()
+![Layout](/assets/css-layout.png)
 
 Create the same page using an external style sheet you may also use any layout you like.
 
