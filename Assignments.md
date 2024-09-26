@@ -71,3 +71,21 @@ Create the same page using an external style sheet you may also use any layout y
 
 Create a layout
 ![Layout 1](/assets/layouts/Invitation.JPG)
+
+Create a layout
+![Layout 2](/assets/layouts/Landing-Page.JPG)
+
+Create a layout
+![Layout 3](/assets/layouts/Layout-1.JPG)
+
+Create a layout
+![Layout 4](/assets/layouts/Layout-2.JPG)
+
+Create a layout
+![Layout 5](/assets/layouts/Layout-3.JPG)
+
+Create a layout
+![Layout 6](/assets/layouts/Layout-4.JPG)
+
+Create a layout
+![Layout 7](/assets/layouts/Layout-5.JPG)
