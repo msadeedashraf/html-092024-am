@@ -11,4 +11,71 @@ header{
     color: white;
     background-size: cover;
     padding: 50px 20px;
+  
 }
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+header p {
+    font-size: 1.2rem;  
+    margin-bottom: 30px;
+
+    
+}
+
+button{
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    
+}
+button:hover{
+    background-color: #3676ba;
+}
+
+.feature
+{
+    margin: 10px; 
+    padding: 20px;
+    background-color: white;
+    border: solid 1px black;
+    border-radius: 5px;
+    display: inline-block;
+    flex-wrap: wrap;
+    box-shadow: 0 2px 6px rgb(111, 109, 109);
+
+}
+
+.feature:hover{
+    box-shadow: 0 2px 6px rgb(48, 47, 47);
+}
+
+.features
+{
+    text-align: center;
+}
+
+/*
+.features
+{
+    
+    padding: 20px;
+    display:inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+}
+*/
+footer
+{
+    background-color: #333;
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
+
