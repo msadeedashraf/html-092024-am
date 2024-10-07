@@ -71,4 +71,85 @@ footer{background-color: #333;
         margin-bottom: 20px;
 
     }
+
+
+    /*Terms Page CSS Begin*/
+    .terms-section{
+        text-align: left;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 30px;
+
+
+    }
+
+    .terms-section h2{
+        margin-bottom: 10px;
+    }
+
+    .terms{
+
+        margin-bottom: 20px ;
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 5px;
+
+    }
+
+    /*Terms Page CSS Ends*/
     
+
+
+    /*Privacy Page CSS Begin*/
+    .privacy-section{
+        text-align: left;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 30px;
+
+
+    }
+
+    .privacy-section h2{
+        margin-bottom: 10px;
+    }
+
+    .privacy{
+
+        margin-bottom: 20px ;
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 5px;
+
+    }
+
+    /*Privacy Page CSS Ends*/
+
+
+    /*Job Listing Page CSS Begin*/
+    .jobs-listing-section{
+        text-align: left;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 30px;
+
+
+    }
+
+    .jobs-listing-section h2{
+        margin-bottom: 10px;
+    }
+
+    .jobs-listing{
+
+        margin-bottom: 20px ;
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 5px;
+
+    }
+
+    /*Job Listing Page CSS Ends*/
