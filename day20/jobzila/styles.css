@@ -29,6 +29,25 @@ nav ul { list-style-type: none;}
 nav ul li { display: inline; margin-right: 20px;}
 nav ul li a { color: white; text-decoration: none;}
 
+
+
+
+nav ul li a:hover {
+    color: #f8e1cc;
+    
+}
+
+footer a:hover {
+    color: #f5251a;
+    
+}
+
+/*
+nav ul li a:hover {
+    color: #f8e1cc;
+}
+*/
+
 footer{background-color: #333;
      color: white;
       padding: 20px;
@@ -102,7 +121,8 @@ footer{background-color: #333;
 
 
     /*Privacy Page CSS Begin*/
-    .privacy-section{
+    .privacy-section
+    {
         text-align: left;
         margin-top: 20px;
         margin-left: 20px;
@@ -153,3 +173,69 @@ footer{background-color: #333;
     }
 
     /*Job Listing Page CSS Ends*/
+
+
+    /*Contact Us Page CSS Begin*/
+    .contact-section{
+        text-align: left;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 30px;
+
+
+    }
+
+    .contact-section h2{
+        margin-bottom: 10px;
+    }
+
+    .contact-div{
+
+        margin-bottom: 20px ;
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 5px;
+
+    }
+
+    .contact-form{
+      /*background-color: #ccc; */
+      padding: 20px; 
+    }
+
+    .contact-form input,
+    .contact-form textarea,
+    .contact-form select
+    {
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 5px;
+        border: 1px solid #ccc  ;
+        border-radius: 3px;
+        resize: vertical;
+
+    }
+
+    .contact-form input[type="submit"]
+    {
+
+      background-color: #333;  
+      color: #fff;
+      padding: 10px 15px;
+      margin-top:50px ;
+      border: none;
+    }
+
+    .contact-form input[type="submit"]:hover
+    {
+
+      background-color: #404040;  
+      color: #fff   ;
+      
+    }
+
+
+
+    /*Contact Us Page CSS Ends*/
