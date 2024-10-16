@@ -12,9 +12,6 @@ header {
     padding: 10px;
 }
 
-
-
-
 .navbar-nav {
     gap: 20px;
 }
@@ -24,12 +21,7 @@ header {
     color: #EAF6FF;
     padding: 10px 15px;
     border-radius: 5px;
-
-
-
-
 }
-
 
 .nav-link:hover {
     background-color: #009ffd;
@@ -47,6 +39,10 @@ header {
     border-color: #FFA400;
 }
 
+footer h5{ color: #FFA400;}
+
+footer a {color:  #eef3f6}
+footer a:hover{color: #fad186;}
 
 
 
