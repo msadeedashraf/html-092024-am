@@ -53,6 +53,17 @@ padding-bottom: 5px;
 
 
 
+.btn-primary{
+    background-color: #FFA400;
+    border: #FFA400;
+}
+
+
+.btn-primary:hover{
+background-color: #ff8c00;
+}
+
+
 
 /*
 navbar-dark
